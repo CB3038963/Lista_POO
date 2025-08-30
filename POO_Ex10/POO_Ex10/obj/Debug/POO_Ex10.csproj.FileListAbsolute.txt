@@ -1,0 +1,8 @@
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\bin\Debug\POO_Ex10.exe.config
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\bin\Debug\POO_Ex10.exe
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\bin\Debug\POO_Ex10.pdb
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\obj\Debug\POO_Ex10.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\obj\Debug\POO_Ex10.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\obj\Debug\POO_Ex10.exe
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\obj\Debug\POO_Ex10.pdb
+C:\Users\Joana\source\repos\POO_Ex10\POO_Ex10\obj\Debug\POO_Ex10.exe.config
