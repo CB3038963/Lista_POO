@@ -1,0 +1,8 @@
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\bin\Debug\POO_Ex9.exe.config
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\bin\Debug\POO_Ex9.exe
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\bin\Debug\POO_Ex9.pdb
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\obj\Debug\POO_Ex9.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\obj\Debug\POO_Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\obj\Debug\POO_Ex9.exe
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\obj\Debug\POO_Ex9.pdb
+C:\Users\Joana\source\repos\POO_Ex9\POO_Ex9\obj\Debug\POO_Ex9.exe.config
