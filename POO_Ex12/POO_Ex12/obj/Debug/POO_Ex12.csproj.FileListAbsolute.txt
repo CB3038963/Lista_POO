@@ -1,0 +1,8 @@
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\bin\Debug\POO_Ex12.exe.config
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\bin\Debug\POO_Ex12.exe
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\bin\Debug\POO_Ex12.pdb
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\obj\Debug\POO_Ex12.csproj.AssemblyReference.cache
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\obj\Debug\POO_Ex12.csproj.CoreCompileInputs.cache
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\obj\Debug\POO_Ex12.exe
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\obj\Debug\POO_Ex12.pdb
+C:\Users\Joana\source\repos\POO_Ex12\POO_Ex12\obj\Debug\POO_Ex12.exe.config
