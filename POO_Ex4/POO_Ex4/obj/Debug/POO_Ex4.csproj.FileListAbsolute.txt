@@ -1,7 +1,0 @@
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\bin\Debug\POO_Ex4.exe.config
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\bin\Debug\POO_Ex4.exe
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\bin\Debug\POO_Ex4.pdb
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\obj\Debug\POO_Ex4.csproj.AssemblyReference.cache
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\obj\Debug\POO_Ex4.csproj.CoreCompileInputs.cache
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\obj\Debug\POO_Ex4.exe
-C:\Users\Joana\source\repos\POO_Ex4\POO_Ex4\obj\Debug\POO_Ex4.pdb
